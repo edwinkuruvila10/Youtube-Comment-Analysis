@@ -1,11 +1,5 @@
-# youtube_sentiment_analysis
-Youtube comments sentiment analysis
+# YouTube-Comment-Analysis
+##### Many comments are trivial, and have improper spellings and grammatical errors. As a result, it is a tedious job to identify the comments that best interest the content creators. In this project, we extract and classify the raw comments into different categories based on both sentiment and sentence types that will help YouTubers find relevant comments for growing their viewership.
 
-1. Run cleaned_get_youtube_comments.py to get comments/use one of the comments datasets already in the repo. 
-2. Play around and do stuff with comments_full_analysis.ipynb :)
 
-Notes: 
-- You need to put your developer key, which you can get from Youtube Data API: https://developers.google.com/youtube/v3
-- If you wanna use colab you have to put the comments csv file onto your google drive 
-
-Please watch video for analysis results AND THE JUICY BITS: https://www.youtube.com/watch?v=kHOVWiZKpHM
+![giphy](https://user-images.githubusercontent.com/85325733/175816886-82535822-3c6f-437f-812f-c4e87e55abe0.gif)
